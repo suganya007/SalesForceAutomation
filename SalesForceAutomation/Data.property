@@ -1,0 +1,8 @@
+url=https://login.salesforce.com/
+username=sugan@enexus.com
+password=myTest@2022
+wrongusername=123
+wrongpassword=22131
+AccountName=Sugan
+ViewName=view1
+ViewUniqueName=view2
